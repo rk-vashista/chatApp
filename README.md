@@ -61,7 +61,7 @@ npm run preview
 ```
 ## Live Demo
 
-A live demo of this project is available at [here](https://chat.ifsvivek.tech/)
+A live demo of this project is available at [here]()
 
 ## Contributing
 
