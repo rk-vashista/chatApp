@@ -36,7 +36,7 @@ LLAMA Chat 70b is a chatbot application powered by the **LLAMA 70b model**. This
 1. **Clone the Repository**  
    Run the following command to clone the repository locally:
    ```sh
-   git clone https://github.com/ifsvivek/chat.git
+   g
    cd chat
    ```
 
